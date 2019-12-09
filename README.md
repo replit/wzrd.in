@@ -9,7 +9,7 @@
 * [browser-module-sandbox](https://github.com/maxogden/browser-module-sandbox) - helpful for using multi-bundles
 * [requirebin.com](http://requirebin.com) - powered by browserify-cdn
 * [esnextb.in](http://esnextb.in) - also powered by browserify-cdn
-
+[![Run on Repl.it](https://repl.it/badge/github/replit/wzrd.in)](https://repl.it/github/replit/wzrd.in)
 # Quick Start
 
 Try visiting this link:
